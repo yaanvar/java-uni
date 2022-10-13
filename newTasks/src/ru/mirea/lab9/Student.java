@@ -8,7 +8,6 @@ public class Student implements Comparable<Student> {
         this.id = id;
         this.gpa = gpa;
     }
-
     public Integer getId() {
         return id;
     }
