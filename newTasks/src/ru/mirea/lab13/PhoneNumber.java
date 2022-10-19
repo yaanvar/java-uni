@@ -21,6 +21,6 @@ public class PhoneNumber {
     }
 
     public static void main(String[] args) throws ParseException {
-        showChangedNumber("+1019999798141");
+        showChangedNumber("89999798141");
     }
 }
